@@ -1,0 +1,392 @@
+{
+  "rowId": "5706d111-f62c-4f6e-954a-a20a55ebcd16",
+  "rentalNumber": 3,
+  "fromDate": "2022-08-26",
+  "toDate": "2022-08-29",
+  "fromTime": "01:00:00",
+  "toTime": "01:00:00",
+  "branch": {
+    "rowId": "1333908d-a691-4c10-96ad-8e436b6b2528",
+    "name": "Nene Rent Car",
+    "__typename": "Branch"
+  },
+  "airportByFromAirport": null,
+  "airportByToAirport": null,
+  "airlineByFromAirline": null,
+  "airlineByToAirline": null,
+  "fromFlightNumber": "",
+  "toFlightNumber": "",
+  "provinceByFromProvince": null,
+  "provinceByToProvince": null,
+  "insurance": {
+    "rowId": "4304a6d6-b6eb-40d7-a80c-bc79239ba5b5",
+    "name": "SEGURO PREMIUN",
+    "amount": "30.00",
+    "nameUs": "INSURACE PREMIUN",
+    "description": "SEGURO PREMIUN",
+    "descriptionUs": "INSURACE PREMIUN",
+    "currency": {
+      "rowId": "12dc055e-6c96-455f-9090-1f76c43b52c1",
+      "name": "Dólar estadounidense",
+      "code": "USD",
+      "__typename": "Currency"
+    },
+    "__typename": "Insurance"
+  },
+  "userByRequestedBy": {
+    "rowId": "303b8f30-3ffd-41cf-819e-2476c4841a37",
+    "birthday": "1990-01-01",
+    "licensePhotoUrl": "https://firebasestorage.googleapis.com/v0/b/rentcar-3659a.appspot.com/o/license_photos%2F0a01d590-1f3a-11ed-98bb-29a975afc14e.jpg?alt=media&token=4b1fd7a7-4d47-4024-bad4-93a134074791",
+    "company": {
+      "rowId": "4059c2f6-59ac-428e-bac2-7f1f605a6aae",
+      "name": "NENE RENT CAR",
+      "phoneNumber": "8299836382",
+      "chatPhoneNumber": "18299836382",
+      "email": "nenerentcar@gmail.com",
+      "rnc": "-",
+      "branches": {
+        "nodes": [
+          {
+            "rowId": "1333908d-a691-4c10-96ad-8e436b6b2528",
+            "name": "Nene Rent Car",
+            "addressLatitude": "19.3890277",
+            "addressLongitude": "-70.6070474",
+            "addressAdditionalDescription": "Avenida Victor Espaillat, Próximo al Aeropuerto Internacional Cibao, Licey, Santiago, República Dominicana.",
+            "__typename": "Branch"
+          }
+        ],
+        "__typename": "BranchesConnection"
+      },
+      "__typename": "Company"
+    },
+    "email": "gabrodz9494@outlook.com",
+    "phoneNumber": "82o44960",
+    "chatPhoneNumber": "99999999",
+    "avatarUrl": null,
+    "firstname": "Gabriel",
+    "lastname": "Rodriguez",
+    "driverLicense": "884839393",
+    "deviceId": "eWhU_ohURU2JPK46uj8Tar:APA91bGms7V4woQQLcVySQqH7-vOF6yda--S6_5hxl3HztIt7V-YRzUMimlfc1EnibnPLLcPxCuq7XekV4ZHGxD2ZVs2R0sirGRIYR3TKfkssPFdw3L8ttPv2bw6OMweWCgG3kOMipzv",
+    "encryptionKey": "2c8bdf8f-77d8-4e3c-ba93-a111a1801f0e",
+    "bannedUntil": null,
+    "receivePromotion": true,
+    "isAdmin": true,
+    "__typename": "User"
+  },
+  "vehicle": {
+    "rowId": "6cd7b672-9899-4e5e-947d-0ded6182c560",
+    "branchId": "1333908d-a691-4c10-96ad-8e436b6b2528",
+    "branch": {
+      "company": {
+        "email": "nenerentcar@gmail.com",
+        "phoneNumber": "8299836382",
+        "chatPhoneNumber": "18299836382",
+        "__typename": "Company"
+      },
+      "__typename": "Branch"
+    },
+    "owner": "303b8f30-3ffd-41cf-819e-2476c4841a37",
+    "isDeluxe": true,
+    "vehicleType": {
+      "rowId": "3464e7d8-3072-47ef-9e1c-e8b8355f0cc3",
+      "name": "Off Road",
+      "__typename": "VehicleType"
+    },
+    "vehicleBrand": {
+      "rowId": "6c834fd7-8cfc-4908-a6fb-4aa8810e1a40",
+      "name": "Acura",
+      "__typename": "VehicleBrand"
+    },
+    "vehicleModel": {
+      "rowId": "9ec5788c-f152-4ecc-af76-7ae54da26280",
+      "name": "RDX",
+      "__typename": "VehicleModel"
+    },
+    "year": 2007,
+    "fuelType": {
+      "rowId": "a6d0b6de-b5cc-49fb-96ba-3ea37b20208d",
+      "name": "Gasolina",
+      "nameUs": "Gasoline",
+      "__typename": "VehicleFuelType"
+    },
+    "personQuantity": 4,
+    "tractionControlType": {
+      "rowId": "3a54410b-7a9c-4d1b-8679-4d76bb48edbe",
+      "name": "AWD",
+      "__typename": "TractionControlType"
+    },
+    "vehicleSeating": {
+      "rowId": "f6dc2f8e-6517-41c7-a73c-08646db6057f",
+      "name": "Asientos de cuero",
+      "nameUs": "Leather seats",
+      "__typename": "VehicleSeating"
+    },
+    "vehicleColor": {
+      "rowId": "867164b2-59f9-426e-8536-712b2d30969f",
+      "name": "Gris",
+      "nameUs": "Gray",
+      "__typename": "VehicleColor"
+    },
+    "currency": {
+      "rowId": "51ab2049-6996-4cf1-8249-70211bf8c10e",
+      "name": "Peso dominicano",
+      "code": "DOP",
+      "__typename": "Currency"
+    },
+    "basePrice": "1300.00",
+    "depositPercent": "1.00",
+    "vehicleImages": {
+      "nodes": [
+        {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/rentcar-3659a.appspot.com/o/vehicle_images%2Fff1d3b40-1531-11ed-a087-91b8baed3d2d.jpg?alt=media&token=6b0fcfd5-5a2f-454b-a0f4-86a9466eed0b",
+          "sequence": 0,
+          "__typename": "VehicleImage"
+        },
+        {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/rentcar-3659a.appspot.com/o/vehicle_images%2Fff1d3b41-1531-11ed-a087-91b8baed3d2d.jpg?alt=media&token=8762febf-b6ce-4723-952e-5bbb5686437d",
+          "sequence": 1,
+          "__typename": "VehicleImage"
+        },
+        {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/rentcar-3659a.appspot.com/o/vehicle_images%2Fff1d3b42-1531-11ed-a087-91b8baed3d2d.jpg?alt=media&token=568d3067-b140-434d-98f8-7fde2d3c2d0c",
+          "sequence": 2,
+          "__typename": "VehicleImage"
+        },
+        {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/rentcar-3659a.appspot.com/o/vehicle_images%2Fff1d3b43-1531-11ed-a087-91b8baed3d2d.jpg?alt=media&token=c00a21c7-f181-4073-8ac7-ffd8d71acb87",
+          "sequence": 3,
+          "__typename": "VehicleImage"
+        },
+        {
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/rentcar-3659a.appspot.com/o/vehicle_images%2Fff1d3b44-1531-11ed-a087-91b8baed3d2d.jpg?alt=media&token=238f7587-f18a-43e3-98d5-682a49a03377",
+          "sequence": 4,
+          "__typename": "VehicleImage"
+        }
+      ],
+      "__typename": "VehicleImagesConnection"
+    },
+    "vehicleAmenities": {
+      "nodes": [
+        {
+          "amenity": {
+            "rowId": "68a32969-cd15-4b5c-9ec3-fe787222496b",
+            "name": "Calefacción interior",
+            "nameUs": "Indoor heating",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "7a29a9b3-8bf3-4dc9-8487-560656971403",
+            "name": "Retrovisores eléctricos",
+            "nameUs": "Electric mirrors",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "8d6b191c-e3f0-46af-8557-a97933fe8984",
+            "name": "Pantalla de Navegación",
+            "nameUs": "Navigation Screen",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "8f8cefd7-dac7-4399-afae-8a0cdd0de285",
+            "name": "Calefactor ventanas",
+            "nameUs": "Windows heater",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "a87b5167-4d75-4fc3-9970-a2d1ddbdd333",
+            "name": "Faros halógenos",
+            "nameUs": "Halogen headlights",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "b662f058-c233-441e-8b04-004336ba4d65",
+            "name": "Vidrios eléctricos",
+            "nameUs": "Electric glasses",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "d0811540-51f6-45df-8c2b-1a0904a4d1fd",
+            "name": "Sunroof / Moonroof",
+            "nameUs": "Sunroof / Moonroof",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        },
+        {
+          "amenity": {
+            "rowId": "d28766b5-a4b2-4b5e-b510-c7101fe8a680",
+            "name": "Luces encendido diurno",
+            "nameUs": "Daytime running lights",
+            "__typename": "Amenity"
+          },
+          "__typename": "VehicleAmenity"
+        }
+      ],
+      "__typename": "VehicleAmenitiesConnection"
+    },
+    "vehicleNotAvailableDates": {
+      "nodes": [],
+      "__typename": "VehicleNotAvailableDatesConnection"
+    },
+    "vehiclePricePerDays": {
+      "nodes": [],
+      "__typename": "VehiclePricePerDaysConnection"
+    },
+    "__typename": "Vehicle"
+  },
+  "rentalStates": {
+    "nodes": [
+      {
+        "addedAt": "2022-08-26T15:21:42.132841",
+        "user": {
+          "rowId": "303b8f30-3ffd-41cf-819e-2476c4841a37",
+          "birthday": "1990-01-01",
+          "companyId": "4059c2f6-59ac-428e-bac2-7f1f605a6aae",
+          "company": {
+            "rowId": "4059c2f6-59ac-428e-bac2-7f1f605a6aae",
+            "name": "NENE RENT CAR",
+            "phoneNumber": "8299836382",
+            "chatPhoneNumber": "18299836382",
+            "email": "nenerentcar@gmail.com",
+            "rnc": "-",
+            "branches": {
+              "nodes": [
+                {
+                  "rowId": "1333908d-a691-4c10-96ad-8e436b6b2528",
+                  "name": "Nene Rent Car",
+                  "addressLatitude": "19.3890277",
+                  "addressLongitude": "-70.6070474",
+                  "addressAdditionalDescription": "Avenida Victor Espaillat, Próximo al Aeropuerto Internacional Cibao, Licey, Santiago, República Dominicana.",
+                  "__typename": "Branch"
+                }
+              ],
+              "__typename": "BranchesConnection"
+            },
+            "__typename": "Company"
+          },
+          "email": "gabrodz9494@outlook.com",
+          "phoneNumber": "82o44960",
+          "chatPhoneNumber": "99999999",
+          "avatarUrl": null,
+          "firstname": "Gabriel",
+          "lastname": "Rodriguez",
+          "driverLicense": "884839393",
+          "deviceId": "eWhU_ohURU2JPK46uj8Tar:APA91bGms7V4woQQLcVySQqH7-vOF6yda--S6_5hxl3HztIt7V-YRzUMimlfc1EnibnPLLcPxCuq7XekV4ZHGxD2ZVs2R0sirGRIYR3TKfkssPFdw3L8ttPv2bw6OMweWCgG3kOMipzv",
+          "encryptionKey": "2c8bdf8f-77d8-4e3c-ba93-a111a1801f0e",
+          "bannedUntil": null,
+          "receivePromotion": true,
+          "isAdmin": true,
+          "__typename": "User"
+        },
+        "rentalStateType": {
+          "rowId": "e7640557-d6b3-4160-9306-33f36737be42",
+          "name": "Pendiente de aprobación",
+          "nameUs": "Pending approval",
+          "__typename": "RentalStateType"
+        },
+        "__typename": "RentalState"
+      }
+    ],
+    "__typename": "RentalStatesConnection"
+  },
+  "rentalWithAdditionalCoverages": {
+    "nodes": [
+      {
+        "additionalCoverage": {
+          "rowId": "0db7197d-baaa-44fe-b0d4-6bd7b452ae33",
+          "name": "Cobertura cristales",
+          "nameUs": "Crystal coverage",
+          "price": "25.00",
+          "currency": {
+            "rowId": "12dc055e-6c96-455f-9090-1f76c43b52c1",
+            "name": "Dólar estadounidense",
+            "code": "USD",
+            "__typename": "Currency"
+          },
+          "__typename": "AdditionalCoverage"
+        },
+        "__typename": "RentalWithAdditionalCoverage"
+      },
+      {
+        "additionalCoverage": {
+          "rowId": "b942e01c-b65c-4635-9219-950e03080923",
+          "name": "Cobertura gomas",
+          "nameUs": "Rubber coverage",
+          "price": "10.00",
+          "currency": {
+            "rowId": "12dc055e-6c96-455f-9090-1f76c43b52c1",
+            "name": "Dólar estadounidense",
+            "code": "USD",
+            "__typename": "Currency"
+          },
+          "__typename": "AdditionalCoverage"
+        },
+        "__typename": "RentalWithAdditionalCoverage"
+      }
+    ],
+    "__typename": "RentalWithAdditionalCoveragesConnection"
+  },
+  "rentalAdditionalDrivers": {
+    "nodes": [],
+    "__typename": "RentalAdditionalDriversConnection"
+  },
+  "rentalWithItems": {
+    "nodes": [
+      {
+        "rentalItem": {
+          "rowId": "4b2ba2dc-94c1-42a0-b483-e791c71ccf64",
+          "name": "Car Seat 1 – 3 Años",
+          "nameUs": "Car Seat 1 – 3 Years",
+          "price": "5.00",
+          "currency": {
+            "rowId": "12dc055e-6c96-455f-9090-1f76c43b52c1",
+            "name": "Dólar estadounidense",
+            "code": "USD",
+            "__typename": "Currency"
+          },
+          "__typename": "RentalItem"
+        },
+        "quantity": 1,
+        "amount": "2.500",
+        "__typename": "RentalWithItem"
+      }
+    ],
+    "__typename": "RentalWithItemsConnection"
+  },
+  "fromAirportAmount": "0.00",
+  "toAirportAmount": "0.00",
+  "fromProvinceAmount": "0.00",
+  "toProvinceAmount": "0.00",
+  "vehicleBasePrice": "1300.00",
+  "vehiclePriceWithOffer": "0.00",
+  "requestDayQuantity": 3,
+  "dayQuantity": 3,
+  "offerDayQuantity": 0,
+  "insuranceDayQuantity": 3,
+  "rentalAmount": "3900.00",
+  "offerAmount": "0.00",
+  "additionalDriverAmount": "0.00",
+  "additionalCoverageAmount": "17.50",
+  "itemsTotalAmount": "7.50",
+  "insuranceAmount": "90.00",
+  "totalAmount": "5957.50",
+  "__typename": "Rental"
+}

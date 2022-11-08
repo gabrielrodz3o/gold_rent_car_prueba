@@ -1,0 +1,103 @@
+{
+  "marca": "Brand",
+  "modelo": "Model",
+  "findCar": "Find a vehicle",
+  "email": "Email",
+  "password": "Password",
+  "firstname": "Firstname",
+  "lastname": "Lastname",
+  "phone": "Phone",
+  "mobile": "Mobile",
+  "dni": "Dni",
+  "birthday": "Birthday",
+  "succesSupcriptions": "Payment has been sent!",
+  "login": {
+    "header": "Log In",
+    "welcome": "We welcome you to Gold Rent Car",
+    "btnLogin": "Sign in"
+  },
+  "register": {
+    "header": "Registrarse",
+    "welcome": "We welcome you to Gold Rent Car",
+    "btnLogin": "Sign up",
+    "terminos": "Accept terms and conditions",
+    "notificaciones": "Receive notifications"
+  },
+  "home": {
+    "a1": {
+      "support": "Support 24/7",
+      "reservation": "Reservation Anytime",
+      "locations": "LOTS OF LOCATIONS"
+    },
+    "a2": {
+      "1": "MAKING THE DIFFERENCE",
+      "2": "THE RENT CAR OF ARTISTS",
+      "3": "WE ARE KNOWN FOR HAVING A WIDE RANGE OF VEHICLES, FROM HIGH RANGE TO MIDDLE AND LOW RANGE, ENDORSED BY INTERNATIONAL ARTISTS AND INFLUENCERS."
+    },
+    "a3": {
+      "title": "About us",
+      "1": {
+        "name": "VIP transport",
+        "details": "We offer private transportation services in the Dominican Republic and airport / city transfers. Private transportation for business dinners, transfers, excursions, sporting events, trips with great comfort and satisfaction."
+      },
+      "2": {
+        "name": "Safe delivery",
+        "details": "We offer private transportation services in the Dominican Republic and airport / city transfers. Private transportation for business dinners, transfers, excursions, sporting events, trips with great comfort and satisfaction."
+      },
+      "3": {
+        "name": "Services 24/7",
+        "details": "We offer private transportation services in the Dominican Republic and airport / city transfers. Private transportation for business dinners, transfers, excursions, sporting events, trips with great comfort and satisfaction."
+      }
+    },
+    "vehiculoPopulares": "POPULAR VEHICLES",
+    "supcripciones": "Subscriptions"
+  },
+  "nosotros": {
+    "1": {
+      "1": "¿About us?",
+      "2": "We are a company that is dedicated to the rental of economic, standard and high-end vehicles with the ability to satisfy the most demanding customers.",
+      "3": "Our fleet is one of the largest in the country in the labor market.    "
+    },
+    "2": {
+      "1": "History",
+      "2": "Our Vision began in 2009, Danauris Domínguez President & CEO of GOLD RENT CAR The car rental market caught his attention by always thinking that he had to overcome himself and create his own company, he always thought of his relatives, of himself, He understood the importance of humility when climbing positions. Since then he has worked with dedication and commitment, he made mistakes but he always got up and said, if I fall 7 times I will get up 8 and so it was that with so much pride 10 years later he was able to realize his dream and the wishes of his project that until Today he continues to climb positions in the labor market of the Dominican Republic.",
+      "3": ""
+    },
+    "3": {
+      "1": "Mission | Vision | Values",
+      "2": "Give the best service in the country with the vehicles in the best conditions and the speed of delivery. We treat clients as part of our family.    ",
+      "3": "Expand Our Branches Both Nationally And Internationally, Make The Rental Process Easier, More Practical And Accessible For Customers.",
+      "4": "Our Principles Are Fundamental Since We Have As First Fruit The Fear Of God, Severity And Responsibility.    "
+    }
+  },
+
+  "reserva": {
+    "name": "Reserve",
+    "informaciones": "General information",
+    "accesorios": "Accessories"
+  },
+  "menuAppBar": {
+    "inicio": "Home",
+    "requisitos": "Requirements",
+    "vehiculos": "Vehicles",
+    "nosotros": "About us",
+    "contactos": "Contacts"
+  },
+  "menuProfile": {
+    "login": "Login",
+    "register": "Sing up",
+    "logout": "Log out",
+    "favoritos": "Favorites",
+    "cuenta": "Account",
+    "rentas": "Rents",
+    "publicar": "Post vehicle",
+    "anuncios": "Advertisements",
+    "pagoSupcripciones": "Payment subscriptions",
+    "rentasSolicitadas": "Requested income",
+    "mantemimiento": "Maintenance"
+  },
+  "message": {
+    "hello": "hello world",
+    "text-users": "No user registered | 1 user registered | {count} users registered"
+  }
+}

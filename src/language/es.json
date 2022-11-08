@@ -1,0 +1,102 @@
+{
+  "marca": "Marca",
+  "modelo": "Modelo",
+  "findCar": "Encuentra un vehiculo",
+  "email": "Correo eletronico",
+  "password": "Contraseña",
+  "firstname": "Nombre",
+  "lastname": "Apellido",
+  "phone": "Telefono",
+  "mobile": "Mobile",
+  "dni": "Licencia conducir",
+  "birthday": "Fecha nacimiento",
+  "succesSupcriptions": "El pago se ha enviado!",
+  "login": {
+    "header": "Iniciar sesión",
+    "welcome": "Te damos la bienvenida a Gold Rent Car",
+    "btnLogin": "Continua"
+  },
+  "register": {
+    "header": "Registrarse",
+    "welcome": "Te damos la bienvenida a Gold Rent Car",
+    "btnLogin": "Registrarme",
+    "terminos": "Aceptar terminos y condiciones",
+    "notificaciones": "Recibir Notificaciones"
+  },
+  "home": {
+    "a1": {
+      "support": "Soporte 24/7",
+      "reservation": "Cualquier momento",
+      "locations": "MUCHAS UBICACIONES"
+    },
+    "a2": {
+      "1": "HACIENDO LA DIFERENCIA",
+      "2": "LA RENT CAR DE LOS ARTISTAS",
+      "3": "SOMOS CONOCIDOS POR TENER UNA AMPLIA GAMA DE VEHICULOS, DESDE ALTA GAMA HASTA GAMA MEDIA Y BAJA, RESPALDADOS POR ARTISTAS INTERNACIONALES E INFLUENCERS."
+    },
+    "a3": {
+      "title": "Sobre Nosotros",
+      "1": {
+        "name": "Transporte VIP",
+        "details": "Ofrecemos servicios de transporte privado en Dominicana y traslados aeropuerto / ciudad. Transporte privado para cenas de empresa, transfer, excursiones, eventos deportivos, viajes con gran confort y satisfacción."
+      },
+      "2": {
+        "name": "Entrega Segura",
+        "details": "Ofrecemos servicios de transporte privado en Dominicana y traslados aeropuerto / ciudad. Transporte privado para cenas de empresa, transfer, excursiones, eventos deportivos, viajes con gran confort y satisfacción."
+      },
+      "3": {
+        "name": "Servicios 24/7",
+        "details": "Ofrecemos servicios de transporte privado en Dominicana y traslados aeropuerto / ciudad. Transporte privado para cenas de empresa, transfer, excursiones, eventos deportivos, viajes con gran confort y satisfacción."
+      }
+    },
+    "vehiculoPopulares": "VEHICULOS POPULARES",
+    "supcripciones": "Suscripciones"
+  },
+  "nosotros": {
+    "1": {
+      "1": "¿Quiénes Somos?    ",
+      "2": "Somos Una Empresa Que Se Dedica A La Renta De Vehículos Económicos, Entándar Y De Alta Gama Con La Capacidad De Satisfacer A Los Clientes Más Exigentes..",
+      "3": "Nuestra Flotilla Es Una De Las Más Amplias Del País En El Mercado Laboral.."
+    },
+    "2": {
+      "1": "Historia",
+      "2": "Nuestra Visión Empezó En El 2009, Danauris Domínguez Presidente & CEO De GOLD RENT CAR Le Llamo La Atención El Mercado De La Renta De Vehículos Al Siempre Pensar Que Tenia Que Superarse Y Crear Su Propia Empresa, Pensaba En Sus Familiares, En Sí Mismo, Siempre Entendió La Importancia De La Humildad A La Hora De Escalar Posiciones. Desde Ese Entonces Trabajo Con La Dedicación Y Empeño, Cometió Errores Pero Siempre Se Levantó Y Decía, Si Me Caigo 7 Veces Me Levantaré 8 Y Así Fue Que Con Tanto Orgullo 10 Años Después Pudo Concretar Su Sueño Y Los Deseos De Su Proyecto Que Hasta El Día De Hoy Sigue Escalando Posiciones En El Mercado Laboral De República Dominicana.",
+      "3": ""
+    },
+    "3": {
+      "1": "Misión | Visión | Valores ",
+      "2": "Dar El Mayor Servicio Del País Con Los Vehículos En Las Mejores Condiciones Y La Rapidez De La Entrega. Tratamos A Los Clientes Como Parte De Nuestra Familia.",
+      "3": "Ampliar Nuestras Sucursales Tanto A Nivel Nacional Como Internacional, Hacer Que El Proceso De Alquiler Sea Más Sencillo, Más Práctico Y Accesible Para Los Clientes.",
+      "4": "Nuestros Principios Son Fundamentales Ya Que Tenemos Como Primicia El Temor De Dios, La Severidad Y Responsabilidad."
+    }
+  },
+  "reserva": {
+    "name": "Reservar",
+    "informaciones": "Informaciones generales",
+    "accesorios": "Accesorios"
+  },
+  "menuAppBar": {
+    "inicio": "Inicio",
+    "requisitos": "Requisitos",
+    "vehiculos": "Vehiculos",
+    "nosotros": "Nosotros",
+    "contactos": "Contactos"
+  },
+  "menuProfile": {
+    "login": "Iniciar seccion",
+    "register": "Registrarme",
+    "logout": "Cerrar seccion",
+    "favoritos": "Favoritos",
+    "cuenta": "Cuenta",
+    "rentas": "Rentas",
+    "publicar": "Publicar vehiculo",
+    "anuncios": "Mis Anuncios",
+    "pagoSupcripciones": "Pagos supcripciones",
+    "rentasSolicitadas": "Rentas solicitadas",
+    "mantemimiento": "Mantemimientos"
+  },
+  "message": {
+    "hello": "Hola mundo",
+    "text-users": "No user registered | 1 user registered | {count} users registered"
+  }
+}

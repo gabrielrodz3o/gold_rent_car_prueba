@@ -1,4 +1,18 @@
 const { defineConfig } = require("@vue/cli-service");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+
 module.exports = defineConfig({
-  transpileDependencies: true,
+  configureWebpack: {
+    plugins: [new MiniCssExtractPlugin()],
+  },
+  transpileDependencies: ["vuetify"],
+  devServer: {
+    proxy: "https://firebasestorage.googleapis.com/",
+  },
+  css: {
+    extract: {
+      ignoreOrder: true,
+    },
+  },
+  lintOnSave: false,
 });
